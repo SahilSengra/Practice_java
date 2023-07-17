@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="itextpdf-5.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/itextpdf-5.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/pdfbox-2.0.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
